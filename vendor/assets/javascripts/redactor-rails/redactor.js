@@ -198,7 +198,7 @@
 
 			linebreaks: false,
 			paragraphy: true,
-			convertDivs: true,
+			convertDivs: false,
 			convertLinks: true,
 			convertImageLinks: false,
 			convertVideoLinks: false,
